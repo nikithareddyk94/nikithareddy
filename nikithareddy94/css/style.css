@@ -1,6 +1,6 @@
 html, body {
-    margin: 0px;
-    padding: 0px;
+    margin: auto 60px;
+    height: auto;
 }
 
 .carousel {
@@ -29,7 +29,7 @@ html, body {
 
 .carousel-item img {
     display: block;
-    height: auto;
+    height: 600px;
     max-width: 100%;
     width: 100%;
 }
